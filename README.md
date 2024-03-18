@@ -1,8 +1,5 @@
 # Wild-Roots-Responsive-Design-
-echo "# Wild-Roots-Responsive-Design-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ileanacarr/Wild-Roots-Responsive-Design-.git
-git push -u origin main
+Hi, this project was coded for my online class at UCSD.
+
+Project info:
+This project aims to develop a responsive website for a fictional climate change organization named Wild Roots. It effectively demonstrates my coding abilites to create and edit a resposive web design. 
